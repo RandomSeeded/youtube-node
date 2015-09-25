@@ -7,7 +7,7 @@
 
 ## CLI
 
-For use CLI need install youtube-node using -g param.
+In order to use the CLI you must install youtube-node globally:
 
     $ npm install youtube-node -g
 
